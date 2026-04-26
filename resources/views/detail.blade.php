@@ -9,6 +9,7 @@
       <div class="col-md-3">
         <img src="/images/{{ $movie['foto_sampul'] }}" class="img-fluid rounded-start" alt="...">
       </div>
+      <div></div>
       <div class="col-md-9">
         <div class="card-body">
           <h2 class="card-title">{{ $movie['judul'] }}</h2>
