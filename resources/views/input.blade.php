@@ -1,4 +1,4 @@
-@extends('layout.template')  
+@extends('layouts.template')  
 @section('title', 'Input Data Movie')  
 @section('content')
 		<a href="/movies/data" class="btn btn-primary mt-4">List Movie</a>

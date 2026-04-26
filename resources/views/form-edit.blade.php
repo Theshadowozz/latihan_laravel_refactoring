@@ -1,4 +1,4 @@
-@extends('layout.template')
+@extends('layouts.template')
 @section('title', 'Input Data Movie')
 @section('content')
 		<h2 class="mb-4">Edit Movie</h2>
